@@ -1,0 +1,18 @@
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\bin\Debug\NewYear.exe.config
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\bin\Debug\NewYear.exe
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\bin\Debug\NewYear.pdb
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\obj\Debug\NewYear.csprojResolveAssemblyReference.cache
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\obj\Debug\NewYear.Form1.resources
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\obj\Debug\NewYear.Properties.Resources.resources
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\obj\Debug\NewYear.csproj.GenerateResource.Cache
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\obj\Debug\NewYear.exe
+c:\users\artur\onedrive\документы\visual studio 2015\Projects\NewYear\NewYear\obj\Debug\NewYear.pdb
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\bin\Debug\NewYear.exe.config
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\bin\Debug\NewYear.exe
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\bin\Debug\NewYear.pdb
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\obj\Debug\NewYear.csprojResolveAssemblyReference.cache
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\obj\Debug\NewYear.Form1.resources
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\obj\Debug\NewYear.Properties.Resources.resources
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\obj\Debug\NewYear.csproj.GenerateResource.Cache
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\obj\Debug\NewYear.exe
+E:\ФАЙЛОПОМОЙКА\backupWin10\Projects\NewYear\NewYear\obj\Debug\NewYear.pdb
